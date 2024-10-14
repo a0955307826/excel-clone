@@ -1,0 +1,11 @@
+@import './tailwind.css';
+@import './font.css';
+
+html, body {
+    background-color: #f0f4d7;
+}
+
+div, h1, h2, p, button, span, textarea, td {
+    font-family: "Noto Sans TC", sans-serif;
+}
+
